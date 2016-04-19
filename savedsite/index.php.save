@@ -1,0 +1,52 @@
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+  
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+      
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <link rel="stylesheet" href="css/reset.css" /> 
+    <link rel="stylesheet" href="css/style.css" /> 
+      
+    <title>Shopping cart</title> 
+  
+</head> 
+  
+<body> 
+      
+    <div id="container"> 
+  
+        <div id="main"> 
+          <?php
+								$sql = "SELECT name,price FROM items";
+$result = mysqli_query($conn, $sql);
+
+echo "<table width=60%;>";
+echo "<tr><th>Name</th><th>Price</th><th>Quantity</th><th>Add To Cart</th></tr>";
+
+if ($result->num_rows > 0) {
+    // output data of each row
+    while($row = $result->fetch_assoc()) {
+        echo "<tr>";
+	echo "<td>" . $row["name"]. "</td>"; echo "<td style='text-align:center'>" . $row["price"]. "</td>";
+	echo "<td align='center'><input type='number' id='qty' maxlength='2' size='3' style='width:30px;' value=1></td>";
+	echo "<td align='center'><button align=center type='submit' onclick='this.style.background-color=green;'>ADD</button></td> ";
+	echo "</tr>";
+    }
+} else {
+    echo "0 results";
+}
+
+echo "</table>";
+
+mysqli_close($conn);
+    ?>
+        </div><!--end main-->
+          
+        <div id="sidebar"> 
+              
+        </div><!--end sidebar-->
+  
+    </div><!--end container-->
+  
+</body> 
+</html>

@@ -1,0 +1,1128 @@
+@charset "utf-8";
+/* CSS Document */
+
+header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color:#FF0;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+#Text {
+	margin: 20px;
+	text-align:left;
+	text-indent: inherit;
+	}
+#Text2 {
+	margin: 20px;
+	text-align:center;
+	text-indent: inherit;
+	}
+
+#Text3 {
+	margin: 20px;
+	padding-bottom:10px;
+	text-align:center;
+	text-indent: inherit;
+	}
+
+#Text4 {
+	margin: 20px;
+	padding-bottom:10px;
+	text-align:center;
+	text-indent: inherit;
+	}
+	
+	#Text5 {
+	margin: 20px;
+	padding-bottom:10px;
+	text-align:center;
+	}
+	
+	
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	float: left;
+	
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	padding: 10px;
+	float: right;
+	
+	
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+	
+figure {
+	float: left;
+	position:relative;
+	clear:right;
+	}
+	
+	.CustomerInfo {
+		
+		margin-left: 15%;
+		padding: 30px;
+		text-align: left;
+		}
+	
+
+
+@media screen(max-width: 720px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+#Text {
+	margin: 20px;
+	text-align:left;
+	text-indent: inherit;
+	}
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+@media screen(max-width: 620px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	padding-bottom: 40px;
+	margin-right: 35%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	float: left;
+	
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	float: left;
+	
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+	
+figure {
+	float: left;
+	position:relative;
+	clear:right;
+	}
+	
+
+
+@media screen(max-width: 720px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+@media screen(max-width: 480px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	padding-bottom: 40px;
+	margin-right: 35%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	float: left;
+	
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	float: left;
+	
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+	
+figure {
+	float: left;
+	position:relative;
+	clear:right;
+	}
+	
+
+
+@media screen(max-width: 720px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+	
+@media screen(max-width: 320px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	padding-bottom: 40px;
+	margin-right: 35%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align:center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	float: left;
+	
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	float: left;
+	
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}
+	
+figure {
+	float: left;
+	position:relative;
+	clear:right;
+	}
+	
+
+
+@media screen(max-width: 720px){
+	header {
+	display:inline;
+	width: 100%;
+	height: 10%;
+	margin: 20%;
+	padding: 20px;
+}
+
+
+html {
+	background-image: url(../images/veganfood7.jpg); no-repeat center center fixed;
+	-webkit-bacground-size: cover;
+	-moz-Background-size: cover;
+	-o-background-size: cover:;
+}
+
+body {
+	
+	margin-left: 40px;
+	margin-right: 40px;
+	background-color:#FFF;
+	
+}
+
+#NextBack {
+	float: left;
+	display: inline;
+	position: relative;
+}
+
+.pg1forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.pg2forms {
+	float: none;
+	display: list-style;
+	position: relative;
+	margin: 20px;
+	padding: 10px;
+}
+
+.nav{
+	
+    background-color: #E64A19;
+	padding: 5px;
+	
+	}
+
+
+.nav li li {
+	font-size: 30px;
+	display: inline;
+	margin-left: 10px;
+	margin-right: 10px;
+	position:relative;
+	float: left;
+	
+	display: none;
+	z-index:200;
+	
+}
+
+.nav li{
+	display:inline;
+	margin-left: 7%;
+	
+	font-size: 30px;
+	float: center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	
+	
+	
+	}
+	
+.LogoandName {
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	
+	
+}
+	
+
+
+#Address {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	font-weight:bolder;
+	font-size:20px;
+	
+	}
+	
+#About {
+	
+	
+	}
+
+
+
+.section {
+
+	text-align: center;
+
+}
+
+#credit {
+	
+	position: inherit;
+	margin-left: 35%;
+	
+	}
+	
+.Socialmedialogos {
+	margin-left: 40%;
+	}
+
+#FormDiv {
+	width:"100%";
+	height:"100%";
+	}

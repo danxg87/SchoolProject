@@ -1,0 +1,48 @@
+body { 
+    font-family: Verdana; 
+    font-size: 12px; 
+    color: #444; 
+} 
+  
+  
+#container { 
+    width: 1100px; 
+    margin: 20px auto; 
+    background-color: #eee; 
+    overflow: hidden; /* Set overflow: hidden to clear the floats on #main and #sidebar */
+    padding: 15px;
+    border-radius: 15px; 
+} 
+  
+    #main {
+        width: 700px; 
+        float: left; 
+    } 
+  
+    #sidebar { 
+        width: 400px; 
+        float: left;
+         
+}
+#cartfixed {
+	padding-top: 10px;
+	border-radius: 15px;
+        width: 400px;
+	background-color:#66ff66;
+	position: fixed;
+}
+#main table, th, td, tr{
+	    /*display: block;*/
+            width: 700px;
+        }
+          
+            #main table th {
+                border-radius: 15px;
+		padding: 10px;
+                color: #fff;
+                text-align: left;
+            }
+              
+            #main table td {
+                padding: 5px;
+            }
